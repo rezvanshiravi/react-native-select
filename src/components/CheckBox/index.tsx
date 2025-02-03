@@ -64,7 +64,7 @@ const CheckBox = ({
 
 const styles = StyleSheet.create({
   checkboxContainer: {
-    flexDirection: 'row',
+    flexDirection: 'row-reverse',
     flexWrap: 'nowrap',
     alignItems: 'center',
   },
